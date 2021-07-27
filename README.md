@@ -26,7 +26,7 @@ I prepared this program for the interview of a Dutch company. Those who want to 
 ## License
 
 ```
-   Copyright 2019 Egemen ÖZOGUL
+   Copyright 2019 Christopher N.
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
